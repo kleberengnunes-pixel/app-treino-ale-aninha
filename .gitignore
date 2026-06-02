@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.DS_Store
+*.log
+
+# Banco local de respostas
+*.sqlite3
+*.db
+exports/
